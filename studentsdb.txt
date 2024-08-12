@@ -1,0 +1,9 @@
+2,Farhan,Flutter,Wed & Sat
+3,3,3,3
+99,Kashif,Flutter,Mon-Wed
+76,Ali,Flutter,Wed & Sat
+434444,Waqar,Flutter,Mon
+233333333,a,a,a
+34234,8,8,8
+4,4,4,4
+56767,Ali Bhai,Flutter,Wed-Sat
