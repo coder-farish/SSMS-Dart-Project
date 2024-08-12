@@ -5,3 +5,8 @@ It has 3 users with functionalities according to the rights assigned.
 Admin user can access all the CRUD activities. (user: admin, password: admin)
 Teacher user can access every functionalities except the Delete operations. (user: teacher, password: teacher)
 Student user can only read the data. (user: student, password: student)
+
+About Author
+============
+Muhammad Farhan
+Flutter-270063
